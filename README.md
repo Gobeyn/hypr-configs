@@ -20,6 +20,7 @@ The following programs are required for this configuration to function as intend
 | [Playerctl](https://github.com/altdesktop/playerctl) | Media player handler |
 | [Vesktop](https://github.com/Vencord/Vesktop) | Discord desktop app with screenshare and sound on Wayland | 
 | [Brightnessctl](https://github.com/Hummer12007/brightnessctl) | Brightness controller |
+| [Qview](https://github.com/jurplel/qView) | Image viewer, used when screenshots are taken |
 
 The following fonts are required to be installed for this configuration to function as intended, 
 see [here](https://www.nerdfonts.com/font-downloads) for Nerd fonts.
