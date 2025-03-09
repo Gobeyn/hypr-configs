@@ -1,5 +1,8 @@
 #!/bin/sh
 
+# Wait a second
+sleep 1
+
 # Get the wallpaper path
 WALLPAPERPATH=$(cat "$HOME/.desktop-environment/wallpaper.info")
 
