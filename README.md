@@ -48,4 +48,5 @@ a `~/.desktop-environment/` directory. Inside that directory the following files
 
 Before creating the symlink, you should also make the file `./hypr/.config/hypr/hypr-configs/hypr_personal.conf`. This file is not tracked by `git` and can
 be used to place configurations based on personal circumstances. For instance, the setup for multiple monitors, the settings required for enabling GPU acceleration, etc. You can 
-leave this file empty, but it must be present.
+leave this file empty, but it must be present. This file is loaded last and 
+can overwrite previous configurations, key binds for example.
